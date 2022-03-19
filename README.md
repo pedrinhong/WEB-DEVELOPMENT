@@ -1,2 +1,2 @@
-# WEB-DEVELOPMENT
-Learning and applying we development.
+# CV
+Basic project just using HTML.
